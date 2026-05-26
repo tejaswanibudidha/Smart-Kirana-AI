@@ -1,0 +1,11 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8CCCC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D4A3A3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="200" fill="url(#grad5)"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" fill="#8B5A5A">🏠</text>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#5D3D3D" font-weight="bold">Household</text>
+</svg>
